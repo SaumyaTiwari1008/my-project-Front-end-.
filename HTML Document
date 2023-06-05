@@ -1,0 +1,165 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Artistic Chikankari</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudfare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+    <link href="hhtps://fonts.googleapis.com/css2?family=Poppins:100,200,300,400,500,600,700,800,900&display=swap"  rel="stylesheet">
+    <link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+    <!--banner, navigation-->
+    <div class="master">
+        <nav class="navigation">
+            <div class ="nav-center clearfix">
+                <h1>ARTISTIC CHIKANKARI<span class="orange"></span></h1>
+                <ul>
+                    <li><a href="#" class="orange">Home</a></li>
+                    <li><a href="#">Our Products</a></li>
+                    <li><a href="#">About Us</a></li>
+                    <li><a href="#">Contact Us</a></li>
+
+                </ul>
+                <button class="icon"></button><span class="fa fa-bars nav-icon"></span></div></button>
+                 
+            </nav>
+            <div class="banner">
+                <h3>BEST DEALS</h3>
+                <h1>OUR NEW ARRIVALS</h1>
+                <span class ="fa fa-dots"> </span>
+            </div>
+         </div>
+         <!--Product-section-->
+         <div class="product clearfix">
+            <h1>Latest Product</h1>
+            <h4>View all products</h4>
+            <hr>
+            <div class="product-list! clearfix">
+                <div class="product-box clearfix">
+                 <img src="WhatsApp Image 2022-11-02 at 00 .20.14.jpg" alt="product" class="pro-pic">
+                 <h2>Title goes here</h2>
+                 <h3>₹1296</h3>
+                  <p>modal kurta with gota patti work.Pastel shade and perfect for your festive ootd</p>
+                  <span class="fa fa-star five-star"></span> 
+                  <span class="fa fa-star five-star"></span> 
+                  <span class="fa fa-star five-star"></span> 
+                  <span class="fa fa-star five-star"></span> 
+                  <span class="fa fa-star five-star"></span>
+                  <h5 class="review">Review(24)</h5> 
+
+            </div>
+            <div class="product-box clearfix">
+                    <img src="WhatsApp Image 2022-11-02 at 00.19.28.jpg" alt="product" class="pro-pic">
+                    <h2>Title goes here</h2>
+                    <h3>₹1355</h3>
+                     <p>Muslin Angrakha kurta with mukaish embroidery work.</p>
+                     <span class="fa fa-star five-star"></span> 
+                     <span class="fa fa-star five-star"></span> 
+                     <span class="fa fa-star five-star"></span> 
+                     <span class="fa fa-star five-star"></span> 
+                     <span class="fa fa-star five-star"></span>
+                     <h5 class="review">Review(18)</h5> 
+                     
+             </div> 
+             <div class="product-box clearfix">
+                <img src="WhatsApp Image 2022-11-02 at 00.20. 15.jpg" alt="product" class="pro-pic">
+                <h2>Title goes here</h2>
+                <h3>₹1106</h3>
+                 <p>simple cotton based chikankari kurta.This product is the answer to your regular wear problems.Available as per color request</p>
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <h5 class="review">Review(24)</h5> 
+                 
+            </div> 
+            <div class="product-box clearfix">
+                <img src="What sApp Image 2022-11-02 at 00.19.28.jpg" alt="product" class="pro-pic">
+                <h2>Title goes here</h2>
+                <h3>₹1634</h3>
+                 <p>organza kurta with intricate embroidery work.This rainy season is the occassion to style them</p>
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span>
+                 <h5 class="review">Review(24)</h5> 
+                 
+            </div> 
+            <div class="product-box clearfix">
+                <img src="WhatsAp p Image 2022-11-02 at 00.19.29.jpg" alt="product" class="pro-pic">
+                <h2>Title goes here</h2>
+                <h3>₹1289</h3>
+                 <p>chanderi kurtas.Available in upto 12 colors.</p>
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span>
+                 <h5 class="review">Review(19)</h5> 
+                 
+            </div> 
+            <div class="product-box clearfix">
+                <img src="WhatsApp Image 2022-11- 02 at 00.19.29.jpg" alt="product" class="pro-pic">
+                <h2>Title goes here</h2>
+                <h3>₹1331</h3>
+                 <p>modal kurta with machine based embroidery.Pastel shade and perfect for your festive ootd</p>
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 <span class="fa fa-star five-star"></span> 
+                 
+                 <h5 class="review">Review(14)</h5> 
+                 
+            </div> 
+
+         </div>
+    </div> 
+<!--About section-->
+<div class="about clearfix">
+    <h1>About Our Journey</h1>
+    <hr>
+    <div class="left-box">
+        <h2>The craftsmanship of Lucknow's best delievered to your doorstep</h2>
+        <p>We at <a href=""> Artistic Chikankari</a> provide you a one stop destination to all your kurta demands.
+           We provide you an experience of quality material and exquisite craftmanship at the most
+           affordable and colossal of collections.If you wish to exude grace look no more further 
+           and <a href="">Contact Us </a>and give us the fortune to be a part of your ethnic journey.</p>
+           <ul class="feature">
+            <li>beautiful designs to choose from</li>
+            <li>a range of colours available</li>
+            <li>best part:they suit your budget</li>
+           </ul>
+           <button class="btn" >Read more</button>
+
+    </div> 
+    <div class="right-box">
+        <img src="image.jpg" alt="about" class="about-pic">
+
+    </div>
+
+
+</div>
+
+<!--Purchase section-->
+  <div class="purchase">
+    <hr>
+    <div class="center clearfix">
+        <div class="left">
+            <h2>Poise is our definition at <span class="bold">Artistic Chikankari</span></h2>
+
+        </div>
+        <div class="right">
+            <button>Purchase Now</button>
+        </div>
+    </div>
+    <hr>
+  </div>
+<!--footer section-->
+ <div class="footer">
+    <p>Copyrights issued and owned by ARTISTIC CHIKANKARI.CO.LTD<span class="orange">HTT</span></p>
+ </div>
+   
+</body>
+</html> 
